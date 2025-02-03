@@ -1,10 +1,10 @@
 "use client";
 import React, { useState } from "react";
-import FirstPage from "./components/FirstPage";
+import FirstPage from "./components/Firstpage";
 import SecondPage from "./components/SecondPage";
 import ThirdPage from "./components/ThirdPage";
 import FourthPage from "./components/FourthPage";
-import ConfirmationPage from "./components/ConfirmationPage";
+import ConfirmationPage from "./components/Confirmationpage";
 
 export default function Home() {
   // Step tracker (starting from 1)
